@@ -1,3 +1,4 @@
+<font face="courier"><pre>
 # MIDI-Sysex-MFG-IDs
  A collection of tabularized versions of the publicly available MMA Sysex ID list
 
@@ -29,11 +30,11 @@ Response from a Roland TR8s:
 ||| ||| || | | || Product Family ID Code (LSByte)
 ||| ||| || | | Manufacturer Sysex ID (65 = Roland)
 ||| ||| || | ID Reply
-||| ||| || General Ifno
+||| ||| || General Info
 ||| ||| Device ID (in this case the TR8S was set to #18)
 ||| Universal sysex, non real-time message
 Begin Sysex
 
 Additional info gleaned from:
 https://www.fumph.com/ensoniq_mr/mrsysex.txt
-https://static.roland.com/assets/media/pdf/TB-3_MI_1.pdf
+https://static.roland.com/assets/media/pdf/TB-3_MI_1.pdf</pre</font>
