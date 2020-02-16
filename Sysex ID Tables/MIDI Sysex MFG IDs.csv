@@ -1,6 +1,6 @@
 ﻿SysEx ID Number (MMA format),Company Name ,# of bytes,Dec 1b,Dec 2b,Dec 3b
-00H,[Used for ID Extensions],1,,,
-60H to 7FH,[Reserved for Other Uses],2,,,
+00H,[Used for ID Extensions],,,,
+60H to 7FH,[Reserved for Other Uses],,,,
 01H,Sequential Circuits,1,1,,
 02H,IDP,1,2,,
 03H,"Voyetra Turtle Beach, Inc.",1,3,,
