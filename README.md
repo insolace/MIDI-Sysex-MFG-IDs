@@ -20,10 +20,10 @@ Response from a Roland TR8s:
 240 126 17 6 2 65 69 3 0 0 0 3 0 0 247
 ||| ||| || | | || || | | | | | | | |||
 ||| ||| || | | || || | | | | | | | End Sysex
-||| ||| || | | || || | | | | | | Minor Revision Number (Decimal Fraction Portion)
-||| ||| || | | || || | | | | | Major Revision Number (Integer Portion)
-||| ||| || | | || || | | | | Reserved
-||| ||| || | | || || | | | Software Revision Info
+||| ||| || | | || || | | | | | | Software Revision Level
+||| ||| || | | || || | | | | | Software Revision Level
+||| ||| || | | || || | | | | Software Revision Level
+||| ||| || | | || || | | | Software Revision Level
 ||| ||| || | | || || | | Family Member ID Code (MSByte)
 ||| ||| || | | || || | Family Member ID Code (LSByte)
 ||| ||| || | | || || Product Family ID Code (MSByte)
