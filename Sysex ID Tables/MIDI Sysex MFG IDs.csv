@@ -85,6 +85,7 @@
 59H,Faith. Inc.,1,89,,
 5AH,Internet Corporation,1,90,,
 5CH,Seekers Co. Ltd.,1,92,,
+5DH,Oki Electric Industry Co. Ltd.,1,93,,
 5FH,SD Card Association,1,95,,
 00H 00H 01H,Time/Warner Interactive,3,0,0,1
 00H 00H 02H,Advanced Gravis Comp. Tech Ltd.,3,0,0,2
@@ -594,5 +595,3 @@
 00H 40H 00H,Crimson Technology Inc.,3,0,64,0
 00H 40H 01H,Softbank Mobile Corp,3,0,64,1
 00H 40H 03H,D&M Holdings Inc.,3,0,64,3
-,,,,,
-,,,,,
